@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I look forward to being a teaching assistant for [EE 364a: Convex Optimization I](https://web.stanford.edu/class/ee364a/) in the fall of 2023.
