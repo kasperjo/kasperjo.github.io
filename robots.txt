@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kasperjo.github.io/kasperjo/sitemap.xml
+Sitemap: https://kasperjo.github.io/kasperjo//sitemap.xml
