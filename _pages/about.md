@@ -21,8 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a second-year PhD student in Prof. Stephen Boyd's group at Stanford. My current
+I'm a PhD student in Prof. Stephen Boyd's group at Stanford. My current
 research is on convex optimization applied to quantitative finance. Prior
 to joining Stanford I was a research fellow at Harvard, and prior to that a
-research intern at Caltech. I received a BSs in Physics and an MSc in Machine
+research intern at Caltech. I received a BSc in Physics and an MSc in Machine
 Learning, both from KTH Royal Institute of Technology in Stockholm, Sweden.
