@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I (successfully) completed my PhD qualifying exam. My slides are available [here](/assets/pdf/cov_pred_finance_presentation.pdf).
+I (successfully) completed my PhD qualifying exam. My slides are available [here](/assets/pdf/cov_pred_finance_presentation.pdf)
 
 
